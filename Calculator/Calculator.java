@@ -92,15 +92,15 @@ class MyCalFrame extends JFrame implements ActionListener
 			{
 				n1=Float.parseFloat(num1_tf.getText());
 				n2=Float.parseFloat(num2_tf.getText());
+				float res=n1+n2;
+				String result=Float.toString(res);
+				res_tf.setText(result);
 			}
 			catch(Exception ee)
 			{
 				warn_l.setText("Please Enter valid numbers");
 				res_tf.setText("");
 			}
-			float res=n1+n2;
-			String result=Float.toString(res);
-			res_tf.setText(result);
 		}
 		else if(ae.getSource()==sub)
 		{
@@ -108,15 +108,15 @@ class MyCalFrame extends JFrame implements ActionListener
 			{
 				n1=Float.parseFloat(num1_tf.getText());
 				n2=Float.parseFloat(num2_tf.getText());
+				float res=n1-n2;
+				String result=Float.toString(res);
+				res_tf.setText(result);
 			}
 			catch(Exception ee)
 			{
 				warn_l.setText("Please Enter valid numbers");
 				res_tf.setText("");
 			}
-			float res=n1-n2;
-			String result=Float.toString(res);
-			res_tf.setText(result);
 		}
 		else if(ae.getSource()==mul)
 		{
@@ -124,15 +124,15 @@ class MyCalFrame extends JFrame implements ActionListener
 			{
 				n1=Float.parseFloat(num1_tf.getText());
 				n2=Float.parseFloat(num2_tf.getText());
+				float res=n1*n2;
+				String result=Float.toString(res);
+				res_tf.setText(result);
 			}
 			catch(Exception ee)
 			{
 				warn_l.setText("Please Enter valid numbers");
 				res_tf.setText("");
 			}
-			float res=n1*n2;
-			String result=Float.toString(res);
-			res_tf.setText(result);
 		}
 		else if(ae.getSource()==div)
 		{
@@ -140,15 +140,15 @@ class MyCalFrame extends JFrame implements ActionListener
 			{
 				n1=Float.parseFloat(num1_tf.getText());
 				n2=Float.parseFloat(num2_tf.getText());
+				float res=n1/n2;
+				String result=Float.toString(res);
+				res_tf.setText(result);
 			}
 			catch(Exception ee)
 			{
 				warn_l.setText("Please Enter valid numbers");
 				res_tf.setText("");
 			}
-			float res=n1/n2;
-			String result=Float.toString(res);
-			res_tf.setText(result);
 		}
 		else if(ae.getSource()==reset)
 		{
