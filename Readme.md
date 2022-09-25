@@ -1,6 +1,49 @@
 Some small applications like on-screen keyboard, calculator, time-table visualizer developed in Java.
 
-## More projects can be viewed in the following links
+# Calculator
+1. Go to [Calculator](./Calculator)
+2. Type the following commands in terminal: <br>
+````javac Calculator.java```` <br>
+````java Calculator```` <br>
+3. Sample output:
+![calc](https://github.com/prateekshyap/Mini-Projects/blob/main/Calculator/img/calc.png)
+4. Example Calculation:
+![op](https://github.com/prateekshyap/Mini-Projects/blob/main/Calculator/img/op.png)
+5. If no numbers are entered and some operation button was pressed:
+![err](https://github.com/prateekshyap/Mini-Projects/blob/main/Calculator/img/err.png)
+
+# Mouse Hover Action Sample
+1. Go to [Game](./Game)
+2. Type the following commands in terminal: <br>
+````javac FoolGame.java```` <br>
+````java FoolGame```` <br>
+3. Sample output:
+https://user-images.githubusercontent.com/39868948/192137162-807e8714-b0a9-4e3c-ab5a-30006edae620.mp4
+
+# Keyboard
+1. Go to [Keyboard](./Keyboard)
+2. Type the following commands in terminal: <br>
+````javac Keyboard.java```` <br>
+````java Keyboard```` <br>
+3. Sample output:
+![kb](https://github.com/prateekshyap/Mini-Projects/blob/main/Keyboard/img/kb.png)
+4. Shift key:
+![shift](https://github.com/prateekshyap/Mini-Projects/blob/main/Keyboard/img/shift.png)
+4. Caps Lock:
+![capslock](https://github.com/prateekshyap/Mini-Projects/blob/main/Keyboard/img/capslock.png)
+5. Shift after Caps Lock:
+![capslockshift](https://github.com/prateekshyap/Mini-Projects/blob/main/Keyboard/img/capslockshift.png)
+6. Sample video showing the difference between Shift and Caps Lock:
+![vid2](https://user-images.githubusercontent.com/39868948/192137131-6f6d09d6-d274-4b5d-bfe8-e828941e5df6.mp4)
+
+# Practice
+Some practice Java Programs.
+
+# Timetable
+A static timetable that shows the timings for a selected subject and a day. It can be converted to dynamic with some other functionalities.
+
+
+# More projects can be viewed in the following links
 
 1. [Student Management System](https://github.com/prateekshyap/Student-Management-System)
 2. [Hotel Management System](https://github.com/prateekshyap/Hotel-Management-System)
