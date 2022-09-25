@@ -18,7 +18,11 @@ Some small applications like on-screen keyboard, calculator, time-table visualiz
 ````javac FoolGame.java```` <br>
 ````java FoolGame```` <br>
 3. Sample output:
-https://user-images.githubusercontent.com/39868948/192137162-807e8714-b0a9-4e3c-ab5a-30006edae620.mp4
+
+
+https://user-images.githubusercontent.com/39868948/192137341-ed35ecc7-6687-4c5e-b549-a535ebc02a1a.mp4
+
+
 
 # Keyboard
 1. Go to [Keyboard](./Keyboard)
@@ -34,7 +38,13 @@ https://user-images.githubusercontent.com/39868948/192137162-807e8714-b0a9-4e3c-
 5. Shift after Caps Lock:
 ![capslockshift](https://github.com/prateekshyap/Mini-Projects/blob/main/Keyboard/img/capslockshift.png)
 6. Sample video showing the difference between Shift and Caps Lock:
-![vid2](https://user-images.githubusercontent.com/39868948/192137131-6f6d09d6-d274-4b5d-bfe8-e828941e5df6.mp4)
+
+
+https://user-images.githubusercontent.com/39868948/192137347-5c1e51ed-3a67-4388-809f-cd88100859c8.mp4
+
+
+
+
 
 # Practice
 Some practice Java Programs.
